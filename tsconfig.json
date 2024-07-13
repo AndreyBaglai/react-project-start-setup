@@ -8,15 +8,14 @@
       "@pages/*": ["pages/*"],
       "@router/*": ["router/*"],
       "@routes/*": ["routes/*"],
-      "@myfirebase/*": ["myfirebase/*"],
-      "@zustand/*": ["zustand/*"],
+      "@database/*": ["database/*"],
+      "@store/*": ["store/*"],
       "@utils/*": ["utils/*"],
       "@interfaces/*": ["interfaces/*"],
       "@enums/*": ["enums/*"],
       "@hooks/*": ["hooks/*"],
       "@constants/*": ["constants/*"],
-      "@serviceWorker/*": ["serviceWorker/*"],
-      "@i18n/*": ["i18n/*"]
+      "@locales/*": ["locales/*"]
     },
     "target": "ES2020",
     "useDefineForClassFields": true,
