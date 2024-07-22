@@ -1,5 +1,5 @@
 const Home = () => {
-  console.log('dfdfdfd');
+  console.log('dfdfdfddvddvddv');
   return (
     <main className="font-3xl flex h-screen w-full items-center justify-center font-semibold text-blue-700">
       Home
